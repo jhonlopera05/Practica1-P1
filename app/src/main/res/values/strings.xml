@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Práctica1-P1</string>
+    <string name="Calcular_area">Calcular área</string>
+    <string name="mensaje">Calcular área de:</string>
+    <string name="Triangulo">Triangle</string>
+    <string name="Cuadrado">Square</string>
+    <string name="Circulo">Circle</string>
+    <string name="Cubo">Cube</string>
+    <string name="Base">Base [m]: </string>
+    <string name="Altura">Altura [m]: </string>
+    <string name="Lado">Lado [m]: </string>
+    <string name="Radio">Radio [m]:</string>
+    <string name="Arista">Arista [m]:</string>
+    <string name="Calcular">Calcular</string>
+    <string name="area">Área [m<sup>2</sup>]:</string>
+    <string name="perimetro">Perímetro [m]: </string>
+    <string name="volumen">Volumen [m<sup>3</sup>]: </string>
+
+</resources>
